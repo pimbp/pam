@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dawid\\source\\repos\\App3\\App3.Android\\App3.Android.csproj",
+      "projectUniqueName": "F:\\repos\\pam\\App3\\App3.Android\\App3.Android.csproj",
       "projectName": "App3.Android",
-      "projectPath": "C:\\Users\\Dawid\\source\\repos\\App3\\App3.Android\\App3.Android.csproj",
+      "projectPath": "F:\\repos\\pam\\App3\\App3.Android\\App3.Android.csproj",
       "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dawid\\source\\repos\\App3\\App3.Android\\obj\\",
+      "outputPath": "F:\\repos\\pam\\App3\\App3.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Dawid\\source\\repos\\App3\\App3\\App3.csproj": {
-              "projectPath": "C:\\Users\\Dawid\\source\\repos\\App3\\App3\\App3.csproj"
+            "F:\\repos\\pam\\App3\\App3\\App3.csproj": {
+              "projectPath": "F:\\repos\\pam\\App3\\App3\\App3.csproj"
             }
           }
         }

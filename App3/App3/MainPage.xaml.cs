@@ -20,6 +20,7 @@ namespace App3
             if (String.IsNullOrEmpty(LoginEntry.Text) == false && String.IsNullOrEmpty(PassEntry.Text) == false)
             {
                 DisplayAlert("Alert", "Login: " + LoginEntry.Text, "OK");
+                Navigation.PushAsync(new HomePage());
             }
             else
             {
